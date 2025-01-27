@@ -1,3 +1,1 @@
 Folder includes codes and exercises on the Molecular Dynamics class by Giovanni Bussi in AY 2024-2025.
-
-Exercises found under `notebooks/`, revisions to lecture notes found in `lecture_notes`.
